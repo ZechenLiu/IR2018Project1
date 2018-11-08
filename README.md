@@ -14,6 +14,9 @@ Address:CUFE
 You can refer to project1说明.txt or http://miner.picp.net/members/Yan/teaching/IR2016Spring.html
 <br/>
 <br/>
+Download 1000 papers in PDF format: http://miner.picp.net/members/Yan/teaching/download/IR2016Spring/IR/oriPDFs.zip
+<br/>
+<br/>
 <br/>
 #About our files:
 <br/>
