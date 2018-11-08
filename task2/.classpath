@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Java/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Java/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="C:/Java/junit-jupiter-api-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java/kie-wb-metadata-widget-7.11.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Java/lucene-analyzers-common-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java/lucene-analyzers-smartcn-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java/lucene-core-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java/lucene-demo-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java/lucene-queryparser-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java/sax.jar"/>
+	<classpathentry kind="lib" path="C:/Java/lucene-highlighter-7.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java/lucene-memory-7.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
