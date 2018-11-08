@@ -43,5 +43,5 @@ About back-end of the website implemented Tomcat+J2EE+JSP:
 <br/>
 <br/>
 <br/>
-`We would appreciate it if you were willing to share your great ideas with us!` 
+<font color=red>`We would appreciate it if you were willing to share your great ideas with us!` </font>
 
