@@ -2,7 +2,7 @@
 Scholarly Documents Parse and Search
 <br/>
 <br/>
-Author: 刘泽辰 罗璨 杨鸿瑞 徐源
+Authors: 刘泽辰 罗璨 杨鸿瑞 徐源
 <br/>
 Address: CUFE http://ie.cufe.edu.cn/
 <br/>
