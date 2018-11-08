@@ -24,4 +24,24 @@ task3:contains a maven project,implimenting a simple web search interface to sho
 About grobid:
 <br/>
 >https://grobid.readthedocs.io/en/latest/<br/>http://url.cn/5ao9EeN
-About lucene:>>>
+<br/>
+About lucene:
+<br/>
+>http://url.cn/5Kxt2h2
+<br/>
+About front-end realized by HTML5+CSS+JS:
+<br/>
+>http://www.w3school.com.cn/html/index.asp<br/>http://www.w3school.com.cn/css/index.asp<br/>http://www.w3school.com.cn/js/index.asp
+<br/>
+About maven:
+<br/>
+>https://www.cnblogs.com/eagle6688/p/7838224.html
+<br/>
+About back-end of the website implemented Tomcat+J2EE+JSP:
+<br/>
+>https://blog.csdn.net/cyz1151148946/article/details/76691976/br/
+<br/>
+<br/>
+<br/>
+`We would appreciate it if you were willing to share your great ideas with us!` 
+
