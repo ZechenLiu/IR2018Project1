@@ -4,7 +4,7 @@ Scholarly Documents Parse and Search
 <br/>
 Author:刘泽辰 罗璨 杨鸿瑞 徐源
 <br/>
-Address:CUFE
+Address:CUFE http://ie.cufe.edu.cn/
 <br/>
 <br/>
 <br/>
@@ -54,7 +54,7 @@ About maven:
 https://www.cnblogs.com/eagle6688/p/7838224.html
 <br/>
 <br/>
-About back-end of the website implemented Tomcat+J2EE+JSP:
+About back-end of the website implemented by Tomcat+J2EE+JSP:
 <br/>
 https://www.cnblogs.com/eagle6688/p/7838224.html
 <br/>
