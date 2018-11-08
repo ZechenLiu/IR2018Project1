@@ -43,5 +43,5 @@ https://www.cnblogs.com/eagle6688/p/7838224.html
 <br/>
 <br/>
 <br/>
-Thanks for your reading.`We would appreciate it if you were willing to share your great ideas with us!`
+Thanks for your reading`We would appreciate it if you were willing to share your great ideas with us!`
 
