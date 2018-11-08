@@ -32,7 +32,8 @@ task3: contains a maven project,implimenting a simple web search interface to sh
 <br/>
 <br/>
 <br/>
-## More resources for reference only:
+
+## About our files:
 
 <br/>
 <br/>
