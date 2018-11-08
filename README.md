@@ -8,7 +8,7 @@ Address: CUFE http://ie.cufe.edu.cn/
 <br/>
 <br/>
 <br/>
-#About our project:
+## About our project:
 <br/>
 <br/>
 You can refer to project1说明.txt or http://miner.picp.net/members/Yan/teaching/IR2016Spring.html
@@ -18,7 +18,7 @@ Download 1000 papers in PDF format: http://miner.picp.net/members/Yan/teaching/d
 <br/>
 <br/>
 <br/>
-#About our files:
+## About our files:
 <br/>
 <br/>
 task1: contains a .py file,which is used to extract fulltext & metadata info from scholarly documents and the results are saved in xml files.
@@ -31,7 +31,7 @@ task3: contains a maven project,implimenting a simple web search interface to sh
 <br/>
 <br/>
 <br/>
-#More resources `for reference only`:
+## More resources `for reference only`:
 <br/>
 <br/>
 About grobid:
