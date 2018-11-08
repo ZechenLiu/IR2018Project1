@@ -19,9 +19,9 @@ task2: contains four java classes,which are used to build the inverted index wit
 <br/>
 task3:contains a maven project,implimenting a simple web search interface to show your search result.The small search engine provides the users with a list of results after a query is submitted and the links about the authors' personal information.
 <br/>
-#More resources 'for reference only':
+#More resources `for reference only`:
 <br/>
-About grobid:>>>https://grobid.readthedocs.io/en/latest/
+About grobid:
 <br/>
->>>>>>>>>>>>>>>>http://url.cn/5ao9EeN
+>https://grobid.readthedocs.io/en/latest/<br/>http://url.cn/5ao9EeN
 About lucene:>>>
