@@ -8,7 +8,7 @@ Address: CUFE http://ie.cufe.edu.cn/
 <br/>
 <br/>
 <br/>
-##About our project:
+#About our project:
 <br/>
 <br/>
 You can refer to project1说明.txt or http://miner.picp.net/members/Yan/teaching/IR2016Spring.html
