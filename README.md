@@ -15,7 +15,9 @@ You can refer to project1说明.txt or http://miner.picp.net/members/Yan/teachin
 <br/>
 task1: contains a .py file,which is used to extract fulltext & metadata info from scholarly documents and the results are saved in xml files.
 <br/>
+<br/>
 task2: contains four java classes,which are used to build the inverted index with the information you have got in the task1('IndexBuild.java') and  search different fields with queries('IndexSearch.java',you can check the search result from the console immediately after it is run.）
+<br/>
 <br/>
 task3:contains a maven project,implimenting a simple web search interface to show your search result.The small search engine provides the users with a list of results after a query is submitted and the links about the authors' personal information.
 <br/>
@@ -43,5 +45,4 @@ https://www.cnblogs.com/eagle6688/p/7838224.html
 <br/>
 <br/>
 <br/>
-`We would appreciate it if you were willing to share your great ideas with us!`
 
