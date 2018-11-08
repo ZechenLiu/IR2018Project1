@@ -2,9 +2,9 @@
 Scholarly Documents Parse and Search
 <br/>
 <br/>
-Author:刘泽辰 罗璨 杨鸿瑞 徐源
+Author: 刘泽辰 罗璨 杨鸿瑞 徐源
 <br/>
-Address:CUFE http://ie.cufe.edu.cn/
+Address: CUFE http://ie.cufe.edu.cn/
 <br/>
 <br/>
 <br/>
@@ -27,7 +27,7 @@ task1: contains a .py file,which is used to extract fulltext & metadata info fro
 task2: contains four java classes,which are used to build the inverted index with the information you have got in the task1('IndexBuild.java') and  search different fields with queries('IndexSearch.java',you can check the search result from the console immediately after it is run.）
 <br/>
 <br/>
-task3:contains a maven project,implimenting a simple web search interface to show your search result.The small search engine provides the users with a list of results after a query is submitted and the links about the authors' personal information.
+task3: contains a maven project,implimenting a simple web search interface to show your search result.The small search engine provides the users with a list of results after a query is submitted and the links about the authors' personal information.
 <br/>
 <br/>
 <br/>
